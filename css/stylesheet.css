@@ -1,0 +1,16 @@
+body {
+    background-image: url("../img/background-2.jpg");
+border-image: url("../img/ruby.jpg");
+}
+
+h1 {
+    color:rgb(255, 66, 69);
+    font-size: 900%;
+    text-align: right;
+}
+
+h2 {
+    color: aqua;
+    font-size: 1500%;
+    font-style: italic;
+}
